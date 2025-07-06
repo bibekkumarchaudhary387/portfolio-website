@@ -1086,7 +1086,10 @@ section,
   margin-bottom: 0;
   font-size: 14px;
 }
-
+.typed {
+  color: red;
+  
+}
 .contact .info-item:hover i {
   background: var(--accent-color);
   color: var(--contrast-color);
